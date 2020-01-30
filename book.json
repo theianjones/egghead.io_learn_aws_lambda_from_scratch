@@ -1,0 +1,5 @@
+{
+  "title": "Learn AWS Lambda from scratch",
+  "description": "This repo contains notes from [Tomasz Lakomy](https://egghead.io/instructors/tomasz-lakomy)'s _excellent_ [aws lambda collection](https://egghead.io/playlists/learn-aws-lambda-from-scratch-d29d).",
+  "plugins": ["advanced-emoji", "prism", "-highlight", "hints"]
+}
