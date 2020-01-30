@@ -10,7 +10,7 @@ Generally, there is one document for each lesson in the course. If there are rel
 
 [Build serverless applications with AWS Serverless Application Model (AWS SAM)](https://egghead.io/playlists/learn-aws-serverless-application-model-aws-sam-framework-from-scratch-baf9)
 
-## Course Summary
+## Collection Summary
 
 AWS Lambda, Serverless, FaaS - there is a lot of noise around those topics online (and for a very good reason!) and it can get confusing at times 🤯
 
